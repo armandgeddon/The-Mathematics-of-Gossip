@@ -1,5 +1,5 @@
 # The-Mathematics-of-Gossip
-CODEE Linking Differential Equations to Social Justice and Environmental Concerns 2018
+CODEE Linking Differential Equations to Social Justice and Environmental Concerns 2018. [The Mathematics of Gossip](https://scholarship.claremont.edu/codee/vol12/iss1/7/) by Jessica Deters, Izabel Aguiar, and Jacquie Feuerborn
 
 Exploring the instruction of ODE's through a humanistic application by extending the traditional SIR disease model to the spread of rumors in a community. 
 
